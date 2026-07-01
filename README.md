@@ -1,9 +1,7 @@
 # AtendeLab
-
-Sistema de Controle de Atendimentos Acadêmicos desenvolvido na disciplina de Fábrica de Software.
-
+Sistema de Controle de Atendimentos Acadêmicos desenvolvido na disciplina de Fábrica de
+Software.
 ## Tecnologias utilizadas
-
 - PHP 8.x
 - MySQL
 - phpMyAdmin
@@ -11,9 +9,7 @@ Sistema de Controle de Atendimentos Acadêmicos desenvolvido na disciplina de F�
 - CSS
 - Bootstrap
 - Git e GitHub
-
 ## Funcionalidades previstas
-
 - Página pública
 - Login
 - Dashboard
@@ -21,15 +17,10 @@ Sistema de Controle de Atendimentos Acadêmicos desenvolvido na disciplina de F�
 - Cadastro de tipos de atendimento
 - Registro de atendimentos
 - Relatórios
-
 ## Como executar localmente
-
 1. Clonar o repositório.
-2. Colocar a pasta no `htdocs` do XAMPP.
+2. Colocar a pasta no htdocs do XAMPP.
 3. Iniciar Apache e MySQL.
-4. Criar o banco de dados `atendelab`.
-5. Importar o script `database/atendelab.sql`.
-6. Acessar:
-
-```bash
-http://localhost/atendelab/public/
+4. Criar o banco atendelab.
+5. Importar o script database/atendelab.sql.
+6. Acessar http://localhost/atendelab/public/
